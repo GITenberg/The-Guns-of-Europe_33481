@@ -1,0 +1,45 @@
+_repo: The-Guns-of-Europe_33481
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2010-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Guns of Europe
+url: http://www.gutenberg.org/ebooks/33481
